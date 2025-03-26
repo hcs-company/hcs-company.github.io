@@ -20,15 +20,14 @@ author: Stichting Cloud Native Netherlands
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "marcel"
+  About: "about"
   Board members:
     - Marcel: "marcel"
     - Karla: "karla"
     - Ronald: "ronald"
+  Supervisory Board: "board"
+  Events: "events"
+  News: "news"
 
 ################
 # --- Logo --- #
