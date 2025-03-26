@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marcel
+title: Board Member
 subtitle: Marcel Kerker
 ---
 
