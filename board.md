@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Board
-subtitle: Supervisory Board 
+title: Supervisory Board
+subtitle: Stichting Cloud Native Netherlands
 ---
 
 
