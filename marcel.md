@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Board Member
-subtitle: Marcel Kerker
+title: Marcel Kerker 
+subtitle: Stichting Cloud Native Netherlands
 ---
 
