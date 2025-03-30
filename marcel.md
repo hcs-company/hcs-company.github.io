@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marcel Kerker 
+title: Marcel
 subtitle: Stichting Cloud Native Netherlands
 ---
 
