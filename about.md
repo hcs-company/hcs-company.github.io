@@ -1,4 +1,5 @@
 ---
 layout: page
-subtitle: About
+title: About
+subtitle: Stichting Cloud Native Netherlands
 ---
