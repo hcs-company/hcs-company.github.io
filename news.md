@@ -1,5 +1,5 @@
 ---
 layout: page
 title: News
-subtitle: News
+subtitle: Stichting Cloud Native Netherlands
 ---
