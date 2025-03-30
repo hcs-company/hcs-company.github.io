@@ -10,4 +10,4 @@ Kubernetes Community Days (KCDs) are global, community-organized events that gat
 
 July 3, Utrecht 
 
-![Kubernetes Community Days Utrecht](https://kcdutrecht.nl/)
+[Kubernetes Community Days Utrecht](https://kcdutrecht.nl/)
