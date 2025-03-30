@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Ronald Kers
+title: Ronald
 subtitle: Stichting Cloud Native Netherlands
 ---
