@@ -4,8 +4,6 @@ title: Code of Conduct
 subtitle: Stichting Cloud Native Netherlands
 ---
 
-# Code of Conduct
-
 This Code of Conduct applies:
 
 ## Scope 
