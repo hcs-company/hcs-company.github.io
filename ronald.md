@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Board Member
-subtitle: Ronald Kers
+title: Ronald Kers
+subtitle: Stichting Cloud Native Netherlands
 ---
