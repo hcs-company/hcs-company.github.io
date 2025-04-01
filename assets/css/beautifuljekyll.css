@@ -27,7 +27,7 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 50%
+  font-size: 100%
 }
 
 body {
@@ -129,7 +129,7 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .linked-section {
