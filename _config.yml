@@ -20,7 +20,6 @@ author: Stichting Cloud Native Netherlands
 ###############################################
 
 navbar-links:
-  About: "about"
   Board members:
     - Marcel: "marcel"
     - Karla: "karla"
@@ -29,6 +28,7 @@ navbar-links:
   Events: "events"
   News: "news"
   CoC: "coc"
+  About: "about"
 
 ################
 # --- Logo --- #
