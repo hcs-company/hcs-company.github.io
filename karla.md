@@ -2,9 +2,9 @@
 layout: page
 title: Karla
 subtitle: Stichting Cloud Native Netherlands
+css: assets/css/image.css
 ---
-
-<p><img src="assets/img/karla.png"  width="200" height="200" class="center" alt="karla"></p>
+![karla](assets/img/karla.png)
 
 Karla is the Senior Field Marketing Manager for EMEA at Isovalent, (now a part of Cisco) the creators of eBPF,  Cilium and Tetragon projects which provide cloud native networking, observability and security solutions. Before joining Isovalent, she held various regional marketing roles across EMEA at Elastic, another open-source company specializing in search, observability and security solutions. 
 
