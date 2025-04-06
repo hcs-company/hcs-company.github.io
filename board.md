@@ -4,7 +4,7 @@ title: Supervisory Board
 subtitle: Stichting Cloud Native Netherlands
 css: assets/css/image.css
 ---
-![hcs-logo](assets/img/hcs-logo.png)
+![hcs-logo](assets/img/hcs-logo.svg)
 
 We are HCS Company, an IT company with a mission – making innovations more human using enterprise and open-source technology.
 We go out of our way to help our clients optimally utilize their hybrid platforms. In the areas of Containerization, Automation, Observability, and Enablement. Together. With our team. With the client. Powered by teamwork.
