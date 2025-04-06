@@ -14,7 +14,11 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
-
+      
+      img {
+        max-width: 100%;
+      }
+      
       {{ content }}
 
       {% if page.after-content %}
