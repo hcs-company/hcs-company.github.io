@@ -2,7 +2,9 @@
 layout: page
 title: Supervisory Board
 subtitle: Stichting Cloud Native Netherlands
+css: assets/css/image.css
 ---
+![hcs-logo](assets/img/hcs-logo.png)
 
 <p><img src="assets/img/hcs-logo.png"  width="400" height="200" class="center" alt="hcs-logo"></p>
 
@@ -11,8 +13,7 @@ We go out of our way to help our clients optimally utilize their hybrid platform
 
 [HCS Company site](https://www.hcs-company.com)
 
-
-<p><img src="assets/img/fikaworks_logo.jpeg"  width="200" height="200" class="center" alt="fikaworks_logo"></p>
+![fikaworks_logo](assets/img/fikaworks_logo.jpeg)
 
 Fika.works is a community first, company second. We believe that a cooperative structure helps our members be the best version of themselves.
 Fika.works specializes in cloud native consultancy. All our members have extensive experience in their fields.
@@ -20,7 +21,7 @@ Fika.works specializes in cloud native consultancy. All our members have extensi
 [Fika Works site](https://fika.works)
 
 
-<p><img src="assets/img/acc_ict_logo.jpeg"  width="200" height="200" class="center" alt="acc_ict_logo"></p>
+![acc_ict_logo](assets/img/acc_ict_logo.jpeg)
 
 ACC ICT specializes in IT continuity. Since 1977, we have stood for quality and technological advancement. Whether you're speaking with a colleague from technology, marketing, or sales, you'll notice that everyone is passionate about their field. That passion also drives us to make everything open for discussion, regardless of position. We believe that transparency, honesty, and respect form the foundation of a sustainable partnership.
 
