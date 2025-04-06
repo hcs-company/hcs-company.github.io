@@ -6,8 +6,6 @@ css: assets/css/image.css
 ---
 ![hcs-logo](assets/img/hcs-logo.png)
 
-<p><img src="assets/img/hcs-logo.png"  width="400" height="200" class="center" alt="hcs-logo"></p>
-
 We are HCS Company, an IT company with a mission – making innovations more human using enterprise and open-source technology.
 We go out of our way to help our clients optimally utilize their hybrid platforms. In the areas of Containerization, Automation, Observability, and Enablement. Together. With our team. With the client. Powered by teamwork.
 
