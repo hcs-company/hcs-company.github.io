@@ -2,7 +2,9 @@
 layout: page
 title: Events
 subtitle: Stichting Cloud Native Netherlands
+css: assets/css/image.css
 ---
+![kcd-utrecht-logo](assets/img/kcd-utrecht-logo.png)
 
 <p><img src="assets/img/kcd-utrecht-logo.png"  width="200" height="200" class="center" alt="kcd-utrecht-logo"></p>
 
