@@ -51,8 +51,8 @@ Any project maintainers, board members, or volunteers who fail to uphold the Cod
 
 ## Reporting a Violation 
 If you witness or experience a violation of this Code of Conduct, please report it as soon as possible. Reports can be submitted in the following ways: 
-For general SCNN-related incidents: Contact the SCNN Code of Conduct team at conduct@cloudnativenetherlands.nl. 
-For incidents occurring at SCNN events: Speak to an event organizer or contact eventconduct@cloudnativenetherlands.nl. 
+For general SCNN-related incidents: Contact the SCNN Code of Conduct team at [conduct@cloudnativenetherlands.nl](mailto:conduct@cloudnativenetherlands.nl). 
+For incidents occurring at SCNN events: Speak to an event organizer or contact  [eventconduct@cloudnativenetherlands.nl](mailto:eventconduct@cloudnativenetherlands.nl). 
 For anonymous reporting: A reporting form will be made available on the foundation’s website. 
 We take all reports seriously and will respond within three business days. 
 
