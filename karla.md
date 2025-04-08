@@ -10,6 +10,4 @@ Karla is the Senior Field Marketing Manager for EMEA at Isovalent, (now a part o
 
 Beyond her professional career, Karla is an active contributor to the tech community, engaging with industry experts for promoting open-source and cloud-native technologies. Locally, she serves as an organizer for Kubernetes Community Days (KCD) and Dutch Cloud Native Day. She also collaborates across Europe to help organize Cloud Native meetups and events.
 
-Karla was born in Ecuador, raised in New York and now lives in Amsterdam. She holds a BA from Wellesley College and  MA from Leiden University. Drawing from her background and personal experience, Karla is dedicated to promoting inclusivity and diversity within tech.
-
-Karla is the Vice President/Secretary of the foundation.
+Karla was born in Ecuador, raised in New York and now lives in Amsterdam. She holds a BA from Wellesley College and  MA from Leiden University. Drawing from her background and personal experience, Karla is dedicated to promoting inclusivity and diversity within tech. Karla is the Vice President/Secretary of the foundation.
