@@ -3,3 +3,23 @@ layout: home
 title: ''
 subtitle: HCS Open Platform Experience 2025
 ---
+<div id="eventbrite-widget-container-932355459277"></div>
+
+<script src="https://www.eventbrite.nl/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order voltooid.');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '932355459277',
+        iframeContainerId: 'eventbrite-widget-container-932355459277',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
